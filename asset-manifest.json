@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.63ef0e30.chunk.css",
-    "main.js": "/static/js/main.d8ad1cfb.chunk.js",
-    "main.js.map": "/static/js/main.d8ad1cfb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d4aa004d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d4aa004d.js.map",
-    "static/css/2.25dc03cb.chunk.css": "/static/css/2.25dc03cb.chunk.css",
-    "static/js/2.a4d921f4.chunk.js": "/static/js/2.a4d921f4.chunk.js",
-    "static/js/2.a4d921f4.chunk.js.map": "/static/js/2.a4d921f4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.25dc03cb.chunk.css.map": "/static/css/2.25dc03cb.chunk.css.map",
-    "static/css/main.63ef0e30.chunk.css.map": "/static/css/main.63ef0e30.chunk.css.map",
-    "static/js/2.a4d921f4.chunk.js.LICENSE.txt": "/static/js/2.a4d921f4.chunk.js.LICENSE.txt",
-    "static/media/boxicons.min.css": "/static/media/boxicons.cbd149c5.ttf",
-    "static/media/footer-bg.67e95f05.jpg": "/static/media/footer-bg.67e95f05.jpg",
-    "static/media/icon.7e851de8.jpg": "/static/media/icon.7e851de8.jpg"
+    "main.css": "/Moviecstacy/static/css/main.0f88124c.chunk.css",
+    "main.js": "/Moviecstacy/static/js/main.d8ad1cfb.chunk.js",
+    "main.js.map": "/Moviecstacy/static/js/main.d8ad1cfb.chunk.js.map",
+    "runtime-main.js": "/Moviecstacy/static/js/runtime-main.30dcdd0a.js",
+    "runtime-main.js.map": "/Moviecstacy/static/js/runtime-main.30dcdd0a.js.map",
+    "static/css/2.25dc03cb.chunk.css": "/Moviecstacy/static/css/2.25dc03cb.chunk.css",
+    "static/js/2.a4d921f4.chunk.js": "/Moviecstacy/static/js/2.a4d921f4.chunk.js",
+    "static/js/2.a4d921f4.chunk.js.map": "/Moviecstacy/static/js/2.a4d921f4.chunk.js.map",
+    "index.html": "/Moviecstacy/index.html",
+    "static/css/2.25dc03cb.chunk.css.map": "/Moviecstacy/static/css/2.25dc03cb.chunk.css.map",
+    "static/css/main.0f88124c.chunk.css.map": "/Moviecstacy/static/css/main.0f88124c.chunk.css.map",
+    "static/js/2.a4d921f4.chunk.js.LICENSE.txt": "/Moviecstacy/static/js/2.a4d921f4.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/Moviecstacy/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/Moviecstacy/static/media/footer-bg.67e95f05.jpg",
+    "static/media/icon.7e851de8.jpg": "/Moviecstacy/static/media/icon.7e851de8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4aa004d.js",
+    "static/js/runtime-main.30dcdd0a.js",
     "static/css/2.25dc03cb.chunk.css",
     "static/js/2.a4d921f4.chunk.js",
-    "static/css/main.63ef0e30.chunk.css",
+    "static/css/main.0f88124c.chunk.css",
     "static/js/main.d8ad1cfb.chunk.js"
   ]
 }
